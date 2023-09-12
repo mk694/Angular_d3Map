@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto");
+* {
+  font-family: "Roboto";
+}
+
+
+
+.container-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-block: 2rem;
+
+}
+.title {
+  font-size: 28px;
+  font-weight: 500;
+}
+.map-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+@keyframes pulseRing {
+  0% {
+    r: 0; /* start radius, it should be slightly larger than the radius of the circle */
+    opacity: 1;
+  }
+  50% {
+    r: 20; /* expanded radius */
+    opacity: 0;
+  }
+  100% {
+    r: 10; /* end radius */
+    opacity: 0;
+  }
+}
+
+::ng-deep .pulse-ring {
+  animation: pulseRing 2.7s infinite; /* Adjust the duration as needed */
+}
+
+::ng-deep .tooltip {
+  position: absolute;
+  background-color: #ffffff !important;
+  border: 1px solid #000;
+  padding: 5px;
+  visibility: hidden;
+  pointer-events: none;
+  max-width: 300px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  div {
+    margin-bottom: 4px;
+  }
+  strong {
+    margin-right: 5px;
+  }
+}
+.radio-container {
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+}
+.radioBOX {
+  cursor: pointer;
+  transition: ease-in-out 0.1s all;
+
+  .big {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    padding: 12px 10px 12px 5px;
+    border: 1px solid #ececec;
+    border-radius: 5px;
+    column-gap: 4px;
+    &:hover,
+    &.hovered {
+      box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+        rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    }
+
+    height: auto;
+    cursor: pointer;
+  }
+}
