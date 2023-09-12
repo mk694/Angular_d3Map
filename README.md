@@ -50,5 +50,5 @@ Copy an existing object theme in the theme Array inside the app.component and cl
 - **legendTextColor** : Color of the legendBar text labels.
 
 
-_Looking for something in different color or shade? Try experimenting with the theme properties to get the best looking theme yourself.😊_
+_Looking for something in different color or shade? Try experimenting with the theme properties to get the best looking-theme for yourself.😊_
 
