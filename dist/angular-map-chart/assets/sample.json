@@ -1,0 +1,2289 @@
+[
+  {
+    "_id": {
+      "$oid": "62fce74fee8ad111f4c446b2"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "140.00",
+        "length": "120.00",
+        "weight": 40,
+        "typegoods": "Euro pallets",
+        "other": ""
+      },
+      {
+        "quantity": "2",
+        "width": "100.00",
+        "height": "120.00",
+        "length": "120.00",
+        "weight": 50,
+        "typegoods": "Block pallets"
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_PAID",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-19T08:02:49.241Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62e799d2c5782223940819ea",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-19T08:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-17T13:04:15.479Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-19T08:02:49.259Z"
+    },
+    "invoiceNo": "INV-0001A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "62fb9e28ee8ad111f4c4079a"
+    },
+    "shipmentNo": "SH-0001A",
+    "pickupLocation": "Science Park 906, 1012 WX Amsterdam, Netherlands",
+    "pickupReference": "020 123456, BA3125 (laadperron)",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.955724999999999, 52.354246]
+    },
+    "pickupDate": {
+      "$date": "2022-08-19T00:00:00Z"
+    },
+    "pickupFromTime": "08:00",
+    "pickupToTime": "17:00",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1012 WX",
+    "destinationLocation": "Gerhart-Hauptmann-Ring 67, 60439 Frankfurt am Main, Germany",
+    "destinationReference": "+49 30 12345678, Contact: Bastian Cargors",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [8.615980000000002, 50.16508]
+    },
+    "destinationDate": {
+      "$date": "2022-08-24T00:00:00Z"
+    },
+    "destinationFromTime": "08:00",
+    "destinationToTime": "17:00",
+    "destinationCountry": "Germany",
+    "destinationState": "Hessen",
+    "destinationCity": "Frankfurt am Main",
+    "destinationPostcode": "60439",
+    "distance": 437546,
+    "loadTotalWeight": "180",
+    "loadTotalWeightKG": 180,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9834dd8e2c3831808764e9",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-17T13:04:15.483Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-19T11:44:42.321Z"
+    },
+    "__v": 0,
+    "invoiceReminder": {
+      "first": true,
+      "second": true,
+      "third": false
+    }
+  },  {
+    "_id": {
+      "$oid": "62fce74fee8ad111f4c446b2"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "140.00",
+        "length": "120.00",
+        "weight": 40,
+        "typegoods": "Euro pallets",
+        "other": ""
+      },
+      {
+        "quantity": "2",
+        "width": "100.00",
+        "height": "120.00",
+        "length": "120.00",
+        "weight": 50,
+        "typegoods": "Block pallets"
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_PAID",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-19T08:02:49.241Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62e799d2c5782223940819ea",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-19T08:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-17T13:04:15.479Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-19T08:02:49.259Z"
+    },
+    "invoiceNo": "INV-0001A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "62fb9e28ee8ad111f4c4079a"
+    },
+    "shipmentNo": "SH-0001A",
+    "pickupLocation": "Science Park 906, 1012 WX Amsterdam, Netherlands",
+    "pickupReference": "020 123456, BA3125 (laadperron)",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.955724999999999, 52.354246]
+    },
+    "pickupDate": {
+      "$date": "2022-08-19T00:00:00Z"
+    },
+    "pickupFromTime": "08:00",
+    "pickupToTime": "17:00",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1012 WX",
+    "destinationLocation": "Gerhart-Hauptmann-Ring 67, 60439 Frankfurt am Main, Germany",
+    "destinationReference": "+49 30 12345678, Contact: Bastian Cargors",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [8.615980000000002, 50.16508]
+    },
+    "destinationDate": {
+      "$date": "2022-08-24T00:00:00Z"
+    },
+    "destinationFromTime": "08:00",
+    "destinationToTime": "17:00",
+    "destinationCountry": "Germany",
+    "destinationState": "Hessen",
+    "destinationCity": "Frankfurt am Main",
+    "destinationPostcode": "60439",
+    "distance": 437546,
+    "loadTotalWeight": "180",
+    "loadTotalWeightKG": 180,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9834dd8e2c3831808764e9",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-17T13:04:15.483Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-19T11:44:42.321Z"
+    },
+    "__v": 0,
+    "invoiceReminder": {
+      "first": true,
+      "second": true,
+      "third": false
+    }
+  },  {
+    "_id": {
+      "$oid": "62fce74fee8ad111f4c446b2"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "140.00",
+        "length": "120.00",
+        "weight": 40,
+        "typegoods": "Euro pallets",
+        "other": ""
+      },
+      {
+        "quantity": "2",
+        "width": "100.00",
+        "height": "120.00",
+        "length": "120.00",
+        "weight": 50,
+        "typegoods": "Block pallets"
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_PAID",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-19T08:02:49.241Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62e799d2c5782223940819ea",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-19T08:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-17T13:04:15.479Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-19T08:02:49.259Z"
+    },
+    "invoiceNo": "INV-0001A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "62fb9e28ee8ad111f4c4079a"
+    },
+    "shipmentNo": "SH-0001A",
+    "pickupLocation": "Science Park 906, 1012 WX Amsterdam, Netherlands",
+    "pickupReference": "020 123456, BA3125 (laadperron)",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.955724999999999, 52.354246]
+    },
+    "pickupDate": {
+      "$date": "2022-08-19T00:00:00Z"
+    },
+    "pickupFromTime": "08:00",
+    "pickupToTime": "17:00",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1012 WX",
+    "destinationLocation": "Gerhart-Hauptmann-Ring 67, 60439 Frankfurt am Main, Germany",
+    "destinationReference": "+49 30 12345678, Contact: Bastian Cargors",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [8.615980000000002, 50.16508]
+    },
+    "destinationDate": {
+      "$date": "2022-08-24T00:00:00Z"
+    },
+    "destinationFromTime": "08:00",
+    "destinationToTime": "17:00",
+    "destinationCountry": "Germany",
+    "destinationState": "Hessen",
+    "destinationCity": "Frankfurt am Main",
+    "destinationPostcode": "60439",
+    "distance": 437546,
+    "loadTotalWeight": "180",
+    "loadTotalWeightKG": 180,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9834dd8e2c3831808764e9",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-17T13:04:15.483Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-19T11:44:42.321Z"
+    },
+    "__v": 0,
+    "invoiceReminder": {
+      "first": true,
+      "second": true,
+      "third": false
+    }
+  },  {
+    "_id": {
+      "$oid": "62fce74fee8ad111f4c446b2"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "140.00",
+        "length": "120.00",
+        "weight": 40,
+        "typegoods": "Euro pallets",
+        "other": ""
+      },
+      {
+        "quantity": "2",
+        "width": "100.00",
+        "height": "120.00",
+        "length": "120.00",
+        "weight": 50,
+        "typegoods": "Block pallets"
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_PAID",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-19T08:02:49.241Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62e799d2c5782223940819ea",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-19T08:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-17T13:04:15.479Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-19T08:02:49.259Z"
+    },
+    "invoiceNo": "INV-0001A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "62fb9e28ee8ad111f4c4079a"
+    },
+    "shipmentNo": "SH-0001A",
+    "pickupLocation": "Science Park 906, 1012 WX Amsterdam, Netherlands",
+    "pickupReference": "020 123456, BA3125 (laadperron)",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.955724999999999, 52.354246]
+    },
+    "pickupDate": {
+      "$date": "2022-08-19T00:00:00Z"
+    },
+    "pickupFromTime": "08:00",
+    "pickupToTime": "17:00",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1012 WX",
+    "destinationLocation": "Gerhart-Hauptmann-Ring 67, 60439 Frankfurt am Main, Germany",
+    "destinationReference": "+49 30 12345678, Contact: Bastian Cargors",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [8.615980000000002, 50.16508]
+    },
+    "destinationDate": {
+      "$date": "2022-08-24T00:00:00Z"
+    },
+    "destinationFromTime": "08:00",
+    "destinationToTime": "17:00",
+    "destinationCountry": "Germany",
+    "destinationState": "Hessen",
+    "destinationCity": "Frankfurt am Main",
+    "destinationPostcode": "60439",
+    "distance": 437546,
+    "loadTotalWeight": "180",
+    "loadTotalWeightKG": 180,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9834dd8e2c3831808764e9",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-17T13:04:15.483Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-19T11:44:42.321Z"
+    },
+    "__v": 0,
+    "invoiceReminder": {
+      "first": true,
+      "second": true,
+      "third": false
+    }
+  },  {
+    "_id": {
+      "$oid": "62fce74fee8ad111f4c446b2"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "140.00",
+        "length": "120.00",
+        "weight": 40,
+        "typegoods": "Euro pallets",
+        "other": ""
+      },
+      {
+        "quantity": "2",
+        "width": "100.00",
+        "height": "120.00",
+        "length": "120.00",
+        "weight": 50,
+        "typegoods": "Block pallets"
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_PAID",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-19T08:02:49.241Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62e799d2c5782223940819ea",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-19T08:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-17T13:04:15.479Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-19T08:02:49.259Z"
+    },
+    "invoiceNo": "INV-0001A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "62fb9e28ee8ad111f4c4079a"
+    },
+    "shipmentNo": "SH-0001A",
+    "pickupLocation": "Science Park 906, 1012 WX Amsterdam, Netherlands",
+    "pickupReference": "020 123456, BA3125 (laadperron)",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.955724999999999, 52.354246]
+    },
+    "pickupDate": {
+      "$date": "2022-08-19T00:00:00Z"
+    },
+    "pickupFromTime": "08:00",
+    "pickupToTime": "17:00",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1012 WX",
+    "destinationLocation": "Gerhart-Hauptmann-Ring 67, 60439 Frankfurt am Main, Germany",
+    "destinationReference": "+49 30 12345678, Contact: Bastian Cargors",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [8.615980000000002, 50.16508]
+    },
+    "destinationDate": {
+      "$date": "2022-08-24T00:00:00Z"
+    },
+    "destinationFromTime": "08:00",
+    "destinationToTime": "17:00",
+    "destinationCountry": "Germany",
+    "destinationState": "Hessen",
+    "destinationCity": "Frankfurt am Main",
+    "destinationPostcode": "60439",
+    "distance": 437546,
+    "loadTotalWeight": "180",
+    "loadTotalWeightKG": 180,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9834dd8e2c3831808764e9",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-17T13:04:15.483Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-19T11:44:42.321Z"
+    },
+    "__v": 0,
+    "invoiceReminder": {
+      "first": true,
+      "second": true,
+      "third": false
+    }
+  },  {
+    "_id": {
+      "$oid": "62fce74fee8ad111f4c446b2"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "140.00",
+        "length": "120.00",
+        "weight": 40,
+        "typegoods": "Euro pallets",
+        "other": ""
+      },
+      {
+        "quantity": "2",
+        "width": "100.00",
+        "height": "120.00",
+        "length": "120.00",
+        "weight": 50,
+        "typegoods": "Block pallets"
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_PAID",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-19T08:02:49.241Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62e799d2c5782223940819ea",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-19T08:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-17T13:04:15.479Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-19T08:02:49.259Z"
+    },
+    "invoiceNo": "INV-0001A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "62fb9e28ee8ad111f4c4079a"
+    },
+    "shipmentNo": "SH-0001A",
+    "pickupLocation": "Science Park 906, 1012 WX Amsterdam, Netherlands",
+    "pickupReference": "020 123456, BA3125 (laadperron)",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.955724999999999, 52.354246]
+    },
+    "pickupDate": {
+      "$date": "2022-08-19T00:00:00Z"
+    },
+    "pickupFromTime": "08:00",
+    "pickupToTime": "17:00",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1012 WX",
+    "destinationLocation": "Gerhart-Hauptmann-Ring 67, 60439 Frankfurt am Main, Germany",
+    "destinationReference": "+49 30 12345678, Contact: Bastian Cargors",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [8.615980000000002, 50.16508]
+    },
+    "destinationDate": {
+      "$date": "2022-08-24T00:00:00Z"
+    },
+    "destinationFromTime": "08:00",
+    "destinationToTime": "17:00",
+    "destinationCountry": "Germany",
+    "destinationState": "Hessen",
+    "destinationCity": "Frankfurt am Main",
+    "destinationPostcode": "60439",
+    "distance": 437546,
+    "loadTotalWeight": "180",
+    "loadTotalWeightKG": 180,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9834dd8e2c3831808764e9",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-17T13:04:15.483Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-19T11:44:42.321Z"
+    },
+    "__v": 0,
+    "invoiceReminder": {
+      "first": true,
+      "second": true,
+      "third": false
+    }
+  },  {
+    "_id": {
+      "$oid": "62fce74fee8ad111f4c446b2"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "140.00",
+        "length": "120.00",
+        "weight": 40,
+        "typegoods": "Euro pallets",
+        "other": ""
+      },
+      {
+        "quantity": "2",
+        "width": "100.00",
+        "height": "120.00",
+        "length": "120.00",
+        "weight": 50,
+        "typegoods": "Block pallets"
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_PAID",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-19T08:02:49.241Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62e799d2c5782223940819ea",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-19T08:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-17T13:04:15.479Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-19T08:02:49.259Z"
+    },
+    "invoiceNo": "INV-0001A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "62fb9e28ee8ad111f4c4079a"
+    },
+    "shipmentNo": "SH-0001A",
+    "pickupLocation": "Science Park 906, 1012 WX Amsterdam, Netherlands",
+    "pickupReference": "020 123456, BA3125 (laadperron)",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.955724999999999, 52.354246]
+    },
+    "pickupDate": {
+      "$date": "2022-08-19T00:00:00Z"
+    },
+    "pickupFromTime": "08:00",
+    "pickupToTime": "17:00",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1012 WX",
+    "destinationLocation": "Gerhart-Hauptmann-Ring 67, 60439 Frankfurt am Main, Germany",
+    "destinationReference": "+49 30 12345678, Contact: Bastian Cargors",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [8.615980000000002, 50.16508]
+    },
+    "destinationDate": {
+      "$date": "2022-08-24T00:00:00Z"
+    },
+    "destinationFromTime": "08:00",
+    "destinationToTime": "17:00",
+    "destinationCountry": "Germany",
+    "destinationState": "Hessen",
+    "destinationCity": "Frankfurt am Main",
+    "destinationPostcode": "60439",
+    "distance": 437546,
+    "loadTotalWeight": "180",
+    "loadTotalWeightKG": 180,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9834dd8e2c3831808764e9",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-17T13:04:15.483Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-19T11:44:42.321Z"
+    },
+    "__v": 0,
+    "invoiceReminder": {
+      "first": true,
+      "second": true,
+      "third": false
+    }
+  },  {
+    "_id": {
+      "$oid": "62fce74fee8ad111f4c446b2"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "140.00",
+        "length": "120.00",
+        "weight": 40,
+        "typegoods": "Euro pallets",
+        "other": ""
+      },
+      {
+        "quantity": "2",
+        "width": "100.00",
+        "height": "120.00",
+        "length": "120.00",
+        "weight": 50,
+        "typegoods": "Block pallets"
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_PAID",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-19T08:02:49.241Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62e799d2c5782223940819ea",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-19T08:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-17T13:04:15.479Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-19T08:02:49.259Z"
+    },
+    "invoiceNo": "INV-0001A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "62fb9e28ee8ad111f4c4079a"
+    },
+    "shipmentNo": "SH-0001A",
+    "pickupLocation": "Science Park 906, 1012 WX Amsterdam, Netherlands",
+    "pickupReference": "020 123456, BA3125 (laadperron)",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.955724999999999, 52.354246]
+    },
+    "pickupDate": {
+      "$date": "2022-08-19T00:00:00Z"
+    },
+    "pickupFromTime": "08:00",
+    "pickupToTime": "17:00",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1012 WX",
+    "destinationLocation": "Gerhart-Hauptmann-Ring 67, 60439 Frankfurt am Main, Germany",
+    "destinationReference": "+49 30 12345678, Contact: Bastian Cargors",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [8.615980000000002, 50.16508]
+    },
+    "destinationDate": {
+      "$date": "2022-08-24T00:00:00Z"
+    },
+    "destinationFromTime": "08:00",
+    "destinationToTime": "17:00",
+    "destinationCountry": "Germany",
+    "destinationState": "Hessen",
+    "destinationCity": "Frankfurt am Main",
+    "destinationPostcode": "60439",
+    "distance": 437546,
+    "loadTotalWeight": "180",
+    "loadTotalWeightKG": 180,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9834dd8e2c3831808764e9",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-17T13:04:15.483Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-19T11:44:42.321Z"
+    },
+    "__v": 0,
+    "invoiceReminder": {
+      "first": true,
+      "second": true,
+      "third": false
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62ff43613a85e6b55540c6e0"
+    },
+    "invoiceReminder": {
+      "first": false,
+      "second": false,
+      "third": false
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "100.00",
+        "height": "160",
+        "length": "120.00",
+        "weight": "120",
+        "typegoods": "Block pallets"
+      }
+    ],
+    "equipmentLoadingUnloading": ["5e983699d85f2615ec32f7fe"],
+    "shipmentStatus": "UPCOMING",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-19T07:37:23.008Z"
+    },
+    "totalPrice": "90",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-22T15:15:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-19T08:01:37.412Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-19T07:37:23.008Z"
+    },
+    "invoiceNo": "",
+    "shipperId": {
+      "$oid": "62fa0243d820d85842445bb6"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "62fcea97ee8ad111f4c448d2"
+    },
+    "shipmentNo": "SH-0002A",
+    "pickupLocation": "Science Park 900, 1012 WX Amsterdam, Netherlands",
+    "pickupReference": "..",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.9572223, 52.3538242]
+    },
+    "pickupDate": {
+      "$date": "2022-08-22T00:00:00Z"
+    },
+    "pickupFromTime": "15:15",
+    "pickupToTime": "18:15",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1012 WX",
+    "destinationLocation": "Strada Delle Milane, 32, 43014 Arduini PR, Italy",
+    "destinationReference": "..",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [10.1270399, 44.7587199]
+    },
+    "destinationDate": {
+      "$date": "2022-08-25T00:00:00Z"
+    },
+    "destinationFromTime": "15:15",
+    "destinationToTime": "23:15",
+    "destinationCountry": "Italy",
+    "destinationState": "Emilia-Romagna",
+    "destinationCity": "Arduini",
+    "destinationPostcode": "43014",
+    "distance": 1203036,
+    "loadTotalWeight": "240",
+    "loadTotalWeightKG": 240,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e98346fadb36b000842da54",
+    "transportType": "5e9835e94132e8357467179a",
+    "shipmentStatusCategories": "UPCOMING",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-19T08:01:37.417Z"
+    },
+    "updatedAt": {
+      "$date": "2022-09-05T12:16:34.069Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62ff43703a85e6b55540c78b"
+    },
+    "invoiceReminder": {
+      "first": false,
+      "second": false,
+      "third": false
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "10",
+        "width": "80.00",
+        "height": "100",
+        "length": "120.00",
+        "weight": "50",
+        "typegoods": "Euro pallets",
+        "other": ""
+      },
+      {
+        "quantity": "2",
+        "width": "100",
+        "height": "150",
+        "length": "100",
+        "weight": "100",
+        "typegoods": "Others",
+        "other": "pallet anders"
+      }
+    ],
+    "equipmentLoadingUnloading": ["5e9836839a1c683eb46aac9e"],
+    "shipmentStatus": "UPCOMING",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-19T07:37:23.008Z"
+    },
+    "totalPrice": "240",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-30T15:15:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-19T08:01:52.122Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-19T07:37:23.008Z"
+    },
+    "invoiceNo": "",
+    "shipperId": {
+      "$oid": "62fa0243d820d85842445bb6"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "62fcec17ee8ad111f4c44ac1"
+    },
+    "shipmentNo": "SH-0004A",
+    "pickupLocation": "Amsterdamseweg 45, 3812 RP Amersfoort, Netherlands",
+    "pickupReference": "020 123456, BA3125 (laadperron)",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [5.3665958, 52.1638618]
+    },
+    "pickupDate": {
+      "$date": "2022-08-30T00:00:00Z"
+    },
+    "pickupFromTime": "15:15",
+    "pickupToTime": "17:15",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Utrecht",
+    "pickupCity": "Amersfoort",
+    "pickupPostcode": "3812 RP",
+    "destinationLocation": "Ģertrūdes iela 56, Latgales priekšpilsēta, Rīga, LV-1011, Latvia",
+    "destinationReference": "m",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [24.1317562, 56.95197659999999]
+    },
+    "destinationDate": {
+      "$date": "2022-08-31T00:00:00Z"
+    },
+    "destinationFromTime": "15:15",
+    "destinationToTime": "17:30",
+    "destinationCountry": "Latvia",
+    "destinationCity": "Rīga",
+    "destinationPostcode": "1011",
+    "distance": 1830569,
+    "loadTotalWeight": "700",
+    "loadTotalWeightKG": 700,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "FTL",
+    "vehicleType": "5e9835437a094330dc47da9f",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "UPCOMING",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-19T08:01:52.125Z"
+    },
+    "updatedAt": {
+      "$date": "2022-09-05T12:16:31.627Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630c876c3a5c63da64c58a91"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "130",
+        "length": "120.00",
+        "weight": "550",
+        "typegoods": "Euro pallets",
+        "other": ""
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_CREATED",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-29T09:38:12.847Z"
+    },
+    "totalPrice": "50",
+    "waitingCharge": "20",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62f246bbd077fad96c3a44b4",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-30T11:30:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-29T09:31:24.521Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-29T09:38:12.872Z"
+    },
+    "invoiceNo": "INV-0020A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62f13f9e18c0da4d9a9410d3"
+    },
+    "rfqId": {
+      "$oid": "630c87163a5c63da64c588d2"
+    },
+    "shipmentNo": "SH-0020A",
+    "pickupLocation": "Contactweg 22, 1014 BH Amsterdam, Netherlands",
+    "pickupReference": "NA",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.8583913, 52.3901088]
+    },
+    "pickupDate": {
+      "$date": "2022-08-30T00:00:00Z"
+    },
+    "pickupFromTime": "11:30",
+    "pickupToTime": "13:30",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1014 BH",
+    "destinationLocation": "Dreef 32, 2012 HS Haarlem, Netherlands",
+    "destinationReference": "NA",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [4.628813699999999, 52.3712524]
+    },
+    "destinationDate": {
+      "$date": "2022-08-31T00:00:00Z"
+    },
+    "destinationFromTime": "11:30",
+    "destinationToTime": "13:30",
+    "destinationCountry": "Netherlands",
+    "destinationState": "Noord-Holland",
+    "destinationCity": "Haarlem",
+    "destinationPostcode": "2012 HS",
+    "distance": 19073,
+    "loadTotalWeight": "1100",
+    "loadTotalWeightKG": 1100,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "61b07a283323e436a0ae518e",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-29T09:31:24.528Z"
+    },
+    "updatedAt": {
+      "$date": "2022-09-05T12:16:38.406Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630ca1d6f0b097df9f68cfa6"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "120.00",
+        "length": "120.00",
+        "weight": 550,
+        "typegoods": "Euro pallets",
+        "other": ""
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_CREATED",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-29T11:25:35.793Z"
+    },
+    "totalPrice": "230",
+    "waitingCharge": "20",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62f246bbd077fad96c3a44b4",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-30T13:15:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-29T11:24:06.833Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-29T11:25:35.811Z"
+    },
+    "invoiceNo": "INV-0021A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62f13f9e18c0da4d9a9410d3"
+    },
+    "rfqId": {
+      "$oid": "630ca18df0b097df9f68ce30"
+    },
+    "shipmentNo": "SH-0021A",
+    "pickupLocation": "Maasstraat 9, 1784 XA Den Helder, Netherlands",
+    "pickupReference": "NA",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.74456, 52.94410000000001]
+    },
+    "pickupDate": {
+      "$date": "2022-08-30T00:00:00Z"
+    },
+    "pickupFromTime": "13:15",
+    "pickupToTime": "15:15",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Den Helder",
+    "pickupPostcode": "1784 XA",
+    "destinationLocation": "Waldeck Pyrmontlaan 4, 4818 LE Breda, Netherlands",
+    "destinationReference": "NA",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [4.787303899999999, 51.5758843]
+    },
+    "destinationDate": {
+      "$date": "2022-08-31T00:00:00Z"
+    },
+    "destinationFromTime": "13:15",
+    "destinationToTime": "15:15",
+    "destinationCountry": "Netherlands",
+    "destinationState": "Noord-Brabant",
+    "destinationCity": "Breda",
+    "destinationPostcode": "4818 LE",
+    "distance": 185645,
+    "loadTotalWeight": "1100",
+    "loadTotalWeightKG": 1100,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9835437a094330dc47da9f",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-29T11:24:06.840Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-29T11:25:38.775Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630cb5fe39e0cae23a46f9a4"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "189",
+        "length": "120.00",
+        "weight": "400",
+        "typegoods": "Euro pallets",
+        "other": ""
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_CREATED",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-29T12:50:57.375Z"
+    },
+    "totalPrice": "500",
+    "waitingCharge": "20",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62f246bbd077fad96c3a44b4",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-30T14:45:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-29T12:50:06.248Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-29T12:50:57.395Z"
+    },
+    "invoiceNo": "INV-0022A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62f13f9e18c0da4d9a9410d3"
+    },
+    "rfqId": {
+      "$oid": "630cb5d739e0cae23a46f8a2"
+    },
+    "shipmentNo": "SH-0022A",
+    "pickupLocation": "Contactweg 22, 1014 BH Amsterdam, Netherlands",
+    "pickupReference": "NA",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.8583913, 52.3901088]
+    },
+    "pickupDate": {
+      "$date": "2022-08-30T00:00:00Z"
+    },
+    "pickupFromTime": "14:45",
+    "pickupToTime": "16:45",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1014 BH",
+    "destinationLocation": "Vriezenveenseweg 86, 7602 AK Almelo, Netherlands",
+    "destinationReference": "NA",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [6.6665355, 52.36920569999999]
+    },
+    "destinationDate": {
+      "$date": "2022-08-31T00:00:00Z"
+    },
+    "destinationFromTime": "14:45",
+    "destinationToTime": "16:45",
+    "destinationCountry": "Netherlands",
+    "destinationState": "Overijssel",
+    "destinationCity": "Almelo",
+    "destinationPostcode": "7602 AK",
+    "distance": 161242,
+    "loadTotalWeight": "800",
+    "loadTotalWeightKG": 800,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e98346fadb36b000842da54",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-29T12:50:06.252Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-29T12:51:00.440Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630cb75c39e0cae23a46fcc8"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "2",
+        "width": "80.00",
+        "height": "150",
+        "length": "120.00",
+        "weight": "550",
+        "typegoods": "Euro pallets",
+        "other": ""
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "INVOICE_CREATED",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-29T12:56:57.116Z"
+    },
+    "totalPrice": "360",
+    "waitingCharge": "20",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62f246bbd077fad96c3a44b4",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-08-30T15:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-29T12:55:56.955Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-29T12:56:57.132Z"
+    },
+    "invoiceNo": "INV-0023A",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62f13f9e18c0da4d9a9410d3"
+    },
+    "rfqId": {
+      "$oid": "630cb70b39e0cae23a46fb83"
+    },
+    "shipmentNo": "SH-0023A",
+    "pickupLocation": "Science Park 608, 1098 XH Amsterdam, Netherlands",
+    "pickupReference": "NA",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.9593101, 52.3545561]
+    },
+    "pickupDate": {
+      "$date": "2022-08-30T00:00:00Z"
+    },
+    "pickupFromTime": "15:00",
+    "pickupToTime": "17:00",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1098 XH",
+    "destinationLocation": "Reinierstraat 12, 4811 KV Breda, Netherlands",
+    "destinationReference": "NA",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [4.7696328, 51.5856011]
+    },
+    "destinationDate": {
+      "$date": "2022-08-31T00:00:00Z"
+    },
+    "destinationFromTime": "15:00",
+    "destinationToTime": "17:00",
+    "destinationCountry": "Netherlands",
+    "destinationState": "Noord-Brabant",
+    "destinationCity": "Breda",
+    "destinationPostcode": "4811 KV",
+    "distance": 107147,
+    "loadTotalWeight": "1100",
+    "loadTotalWeightKG": 1100,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "61b07a283323e436a0ae518e",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "COMPLETED",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-29T12:55:56.959Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-29T12:57:00.083Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f311b40b5872fc9139c4d"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "1",
+        "width": "100.00",
+        "height": "100",
+        "length": "120.00",
+        "weight": "100",
+        "typegoods": "Block pallets"
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "LOAD_PICKED_UP",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-08-31T10:02:00.184Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "20",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62f246bbd077fad96c3a44b4",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-09-01T12:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-08-31T09:59:55.646Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-08-31T09:39:23.829Z"
+    },
+    "invoiceNo": "",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62f13f9e18c0da4d9a9410d3"
+    },
+    "rfqId": {
+      "$oid": "630f308d40b5872fc9139aa8"
+    },
+    "shipmentNo": "SH-0029A",
+    "pickupLocation": "Nedersticht 312, 1083 XG Amsterdam, Netherlands",
+    "pickupReference": "020 123456, BA3125 (laadperron)",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [4.8829741, 52.3309991]
+    },
+    "pickupDate": {
+      "$date": "2022-09-02T00:00:00Z"
+    },
+    "pickupFromTime": "08:30",
+    "pickupToTime": "17:00",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Noord-Holland",
+    "pickupCity": "Amsterdam",
+    "pickupPostcode": "1083 XG",
+    "destinationLocation": "Duisburger Str. 432, 45478 Mülheim an der Ruhr, Germany",
+    "destinationReference": "+49 30 12345678, Contact: Bastian Cargors",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [6.825584999999999, 51.4328164]
+    },
+    "destinationDate": {
+      "$date": "2022-09-03T00:00:00Z"
+    },
+    "destinationFromTime": "08:30",
+    "destinationToTime": "17:00",
+    "destinationCountry": "Germany",
+    "destinationState": "Nordrhein-Westfalen",
+    "destinationCity": "Mülheim an der Ruhr",
+    "destinationPostcode": "45478",
+    "distance": 197287,
+    "loadTotalWeight": "100",
+    "loadTotalWeightKG": 100,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e98346fadb36b000842da54",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "ACTIVE",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-08-31T09:59:55.650Z"
+    },
+    "updatedAt": {
+      "$date": "2022-08-31T10:02:00.199Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631ee8ca689424c222e1082e"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "4",
+        "width": "80.00",
+        "height": "211",
+        "length": "120.00",
+        "weight": "22",
+        "typegoods": "Euro pallets",
+        "other": ""
+      }
+    ],
+    "equipmentLoadingUnloading": [],
+    "shipmentStatus": "UPCOMING",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-09-11T08:52:29.223Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-09-13T13:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-09-12T08:07:38.760Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-09-11T08:52:29.223Z"
+    },
+    "invoiceNo": "",
+    "shipperId": {
+      "$oid": "62d647a5316ee53cc3af0507"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "631ee816689424c222e1046e"
+    },
+    "shipmentNo": "SH-0078A",
+    "pickupLocation": "Hahnenklee, 38644 Goslar, Germany",
+    "pickupReference": "NA",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [10.3376932, 51.86021230000001]
+    },
+    "pickupDate": {
+      "$date": "2022-09-13T00:00:00Z"
+    },
+    "pickupFromTime": "13:00",
+    "pickupToTime": "14:00",
+    "pickupCountry": "Germany",
+    "pickupState": "Niedersachsen",
+    "pickupCity": "Goslar",
+    "pickupPostcode": "38644",
+    "destinationLocation": "Gasometer Oberhausen, Arenastraße 13, 46047 Oberhausen, Germany",
+    "destinationReference": "NA",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [6.8704268, 51.4941109]
+    },
+    "destinationDate": {
+      "$date": "2022-09-14T00:00:00Z"
+    },
+    "destinationFromTime": "14:00",
+    "destinationToTime": "21:30",
+    "destinationCountry": "Germany",
+    "destinationState": "Nordrhein-Westfalen",
+    "destinationCity": "Oberhausen",
+    "destinationPostcode": "46047",
+    "distance": 324742,
+    "loadTotalWeight": "88",
+    "loadTotalWeightKG": 88,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e98346fadb36b000842da54",
+    "transportType": "5e98358300a06a3d68ebfdd0",
+    "shipmentStatusCategories": "UPCOMING",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-09-12T08:07:38.770Z"
+    },
+    "updatedAt": {
+      "$date": "2022-09-12T08:07:38.770Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631eeb26049b91d7ccfffdcb"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "typegoods": "Euro pallets",
+        "quantity": "10",
+        "length": "120",
+        "width": "80",
+        "height": "100",
+        "weight": "15",
+        "other": ""
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "UPCOMING",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-09-12T04:08:44.556Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "100",
+    "cancellationCharge": "100",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-09-15T01:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-09-12T08:17:42.568Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-09-12T04:08:44.557Z"
+    },
+    "invoiceNo": "",
+    "shipperId": {
+      "$oid": "62fa0243d820d85842445bb6"
+    },
+    "carrierId": {
+      "$oid": "631a0b42dcbff34891e0d6e4"
+    },
+    "rfqId": {
+      "$oid": "631eeb26049b91d7ccfffdbf"
+    },
+    "shipmentNo": "SH-0079A",
+    "pickupLocation": "Gasometer Oberhausen, Arenastraße, Oberhausen, Germany",
+    "pickupReference": "NA",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [6.8704268, 51.4941109]
+    },
+    "pickupDate": {
+      "$date": "2022-09-15T23:59:59Z"
+    },
+    "pickupFromTime": "01:00",
+    "pickupToTime": "02:15",
+    "pickupCountry": "Germany",
+    "pickupState": "Nordrhein-Westfalen",
+    "pickupCity": "Oberhausen",
+    "pickupPostcode": "46047",
+    "destinationLocation": "Oiakos, Nafplion, Greece",
+    "destinationReference": "NA",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [22.8051701, 37.5691581]
+    },
+    "destinationDate": {
+      "$date": "2022-09-22T23:59:59Z"
+    },
+    "destinationFromTime": "02:00",
+    "destinationToTime": "04:15",
+    "destinationCountry": "Greece",
+    "destinationCity": "Nafplio",
+    "destinationPostcode": "211 00",
+    "distance": 2798404,
+    "loadTotalWeight": "150",
+    "loadTotalWeightKG": 150,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9834dd8e2c3831808764e9",
+    "transportType": "5e9835e94132e8357467179a",
+    "shipmentStatusCategories": "UPCOMING",
+    "selfDriver": "NO",
+    "createdAt": {
+      "$date": "2022-09-12T08:17:42.573Z"
+    },
+    "updatedAt": {
+      "$date": "2022-09-12T08:17:42.573Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631eeb27049b91d7ccfffde5"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "typegoods": "Euro pallets",
+        "quantity": "10",
+        "length": "120",
+        "width": "80",
+        "height": "100",
+        "weight": "15",
+        "other": ""
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "UPCOMING",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-09-12T04:08:44.556Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "100",
+    "cancellationCharge": "100",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-09-15T01:00:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-09-12T08:17:43.009Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-09-12T04:08:44.557Z"
+    },
+    "invoiceNo": "",
+    "shipperId": {
+      "$oid": "62fa0243d820d85842445bb6"
+    },
+    "carrierId": {
+      "$oid": "631a0b42dcbff34891e0d6e4"
+    },
+    "rfqId": {
+      "$oid": "631eeb26049b91d7ccfffdd9"
+    },
+    "shipmentNo": "SH-0080A",
+    "pickupLocation": "Gasometer Oberhausen, Arenastraße, Oberhausen, Germany",
+    "pickupReference": "NA",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [6.8704268, 51.4941109]
+    },
+    "pickupDate": {
+      "$date": "2022-09-15T23:59:59Z"
+    },
+    "pickupFromTime": "01:00",
+    "pickupToTime": "02:15",
+    "pickupCountry": "Germany",
+    "pickupState": "Nordrhein-Westfalen",
+    "pickupCity": "Oberhausen",
+    "pickupPostcode": "46047",
+    "destinationLocation": "Oiakos, Nafplion, Greece",
+    "destinationReference": "NA",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [22.8051701, 37.5691581]
+    },
+    "destinationDate": {
+      "$date": "2022-09-22T23:59:59Z"
+    },
+    "destinationFromTime": "02:00",
+    "destinationToTime": "04:15",
+    "destinationCountry": "Greece",
+    "destinationCity": "Nafplio",
+    "destinationPostcode": "211 00",
+    "distance": 2798404,
+    "loadTotalWeight": "150",
+    "loadTotalWeightKG": 150,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9834dd8e2c3831808764e9",
+    "transportType": "5e9835e94132e8357467179a",
+    "shipmentStatusCategories": "UPCOMING",
+    "selfDriver": "NO",
+    "createdAt": {
+      "$date": "2022-09-12T08:17:43.013Z"
+    },
+    "updatedAt": {
+      "$date": "2022-09-12T08:17:43.013Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631f03a6c2a593dcb5afdb24"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "quantity": "20",
+        "width": "100.00",
+        "height": "20",
+        "length": "120.00",
+        "weight": "20",
+        "typegoods": "Block pallets"
+      }
+    ],
+    "equipmentLoadingUnloading": [],
+    "shipmentStatus": "UPCOMING",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-09-12T09:36:49.073Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "60",
+    "cancellationCharge": "90",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "62e799d2c5782223940819ea",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-09-10T17:45:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-09-12T10:02:14.402Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-09-12T09:36:49.074Z"
+    },
+    "invoiceNo": "",
+    "shipperId": {
+      "$oid": "62d647a5316ee53cc3af0507"
+    },
+    "carrierId": {
+      "$oid": "62d4e5bc3b7e4204042141e7"
+    },
+    "rfqId": {
+      "$oid": "631b385cdcbff34891e30b81"
+    },
+    "shipmentNo": "SH-0067A",
+    "pickupLocation": "Beneluxlaan 817, 1363 DA Almere, Netherlands",
+    "pickupReference": "NA",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [5.1463388, 52.3476526]
+    },
+    "pickupDate": {
+      "$date": "2022-09-10T00:00:00Z"
+    },
+    "pickupFromTime": "17:45",
+    "pickupToTime": "18:45",
+    "pickupCountry": "Netherlands",
+    "pickupState": "Flevoland",
+    "pickupCity": "Almere",
+    "pickupPostcode": "1363 DA",
+    "destinationLocation": "Gasometer Oberhausen, Arenastraße 13, 46047 Oberhausen, Germany",
+    "destinationReference": "NA",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [6.8704268, 51.4941109]
+    },
+    "destinationDate": {
+      "$date": "2022-09-16T00:00:00Z"
+    },
+    "destinationFromTime": "17:45",
+    "destinationToTime": "18:45",
+    "destinationCountry": "Germany",
+    "destinationState": "Nordrhein-Westfalen",
+    "destinationCity": "Oberhausen",
+    "destinationPostcode": "46047",
+    "distance": 179509,
+    "loadTotalWeight": "400",
+    "loadTotalWeightKG": 400,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e98346fadb36b000842da54",
+    "transportType": "61aa25f882ea284472cc6e4e",
+    "shipmentStatusCategories": "UPCOMING",
+    "selfDriver": "YES",
+    "partnersId": "",
+    "createdAt": {
+      "$date": "2022-09-12T10:02:14.407Z"
+    },
+    "updatedAt": {
+      "$date": "2022-09-12T10:04:54.568Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631f0a85049b91d7cc000049"
+    },
+    "metrics": "1",
+    "loadInformation": [
+      {
+        "typegoods": "Euro pallets",
+        "quantity": "10",
+        "length": "120",
+        "width": "80",
+        "height": "100",
+        "weight": "10",
+        "other": ""
+      }
+    ],
+    "equipmentLoadingUnloading": ["5fdb23b1fdff3647ad546afd"],
+    "shipmentStatus": "UPCOMING",
+    "shipmentStatusTime": [],
+    "currentStatusTime": {
+      "$date": "2022-09-12T04:08:44.556Z"
+    },
+    "totalPrice": "100",
+    "waitingCharge": "20",
+    "cancellationCharge": "100",
+    "shipperPaymentCharge": "",
+    "cargorsCommissionPerc": "0",
+    "totalWaitingCharge": 0,
+    "totalAdditionalCharge": 0,
+    "taxChargeCarrierShipper": 0,
+    "taxChargeCargorsCarrier": 0,
+    "taxPercCarrierShipper": "0",
+    "taxPercCargorsCarrier": "0",
+    "cargorsCommission": "0",
+    "totalCargorsAmount": 0,
+    "totalCarrierAmount": 0,
+    "driverId": "",
+    "uploadedDocuments": [],
+    "shipmentTime": {
+      "$date": "2022-09-15T03:30:00Z"
+    },
+    "hoursWaiting": "0",
+    "issueReported": "0",
+    "addedTime": {
+      "$date": "2022-09-12T10:31:33.960Z"
+    },
+    "invoiceDate": {
+      "$date": "2022-09-12T04:08:44.557Z"
+    },
+    "invoiceNo": "",
+    "shipperId": {
+      "$oid": "62e7961b502ad461ef5ee689"
+    },
+    "carrierId": {
+      "$oid": "62f13f9e18c0da4d9a9410d3"
+    },
+    "rfqId": {
+      "$oid": "631f0a85049b91d7cc00003d"
+    },
+    "shipmentNo": "SH-0083A",
+    "pickupLocation": "Gasometer Oberhausen, Arenastraße, Oberhausen, Germany",
+    "pickupReference": "NA",
+    "pickupLatlong": {
+      "type": "Point",
+      "coordinates": [6.8704268, 51.4941109]
+    },
+    "pickupDate": {
+      "$date": "2022-09-15T23:59:59Z"
+    },
+    "pickupFromTime": "03:30",
+    "pickupToTime": "13:45",
+    "pickupCountry": "Germany",
+    "pickupState": "Nordrhein-Westfalen",
+    "pickupCity": "Oberhausen",
+    "pickupPostcode": "46047",
+    "destinationLocation": "Gąsawa, Poland",
+    "destinationReference": "NA",
+    "destinationLatlong": {
+      "type": "Point",
+      "coordinates": [17.7555923, 52.7674269]
+    },
+    "destinationDate": {
+      "$date": "2022-09-17T23:59:59Z"
+    },
+    "destinationFromTime": "17:15",
+    "destinationToTime": "22:30",
+    "destinationCountry": "Poland",
+    "destinationState": "Kujawsko-Pomorskie",
+    "destinationCity": "Gąsawa",
+    "destinationPostcode": "88-410",
+    "distance": 850448,
+    "loadTotalWeight": "100",
+    "loadTotalWeightKG": 100,
+    "loadDimensionUnit": "CM",
+    "loadWeightUnit": "KG",
+    "loadType": "LTL",
+    "vehicleType": "5e9834dd8e2c3831808764e9",
+    "transportType": "5e9835e94132e8357467179a",
+    "shipmentStatusCategories": "UPCOMING",
+    "selfDriver": "YES",
+    "createdAt": {
+      "$date": "2022-09-12T10:31:33.968Z"
+    },
+    "updatedAt": {
+      "$date": "2022-09-12T10:31:33.968Z"
+    },
+    "__v": 0
+  }
+]
